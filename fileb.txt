@@ -1,1 +1,2 @@
 file B feature branch checking
+version 2 master side change
